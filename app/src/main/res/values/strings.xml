@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">Submission Story App</string>
+    <string name="dashboard" translatable="false">Dashboard Story App</string>
+    <string name="login" translatable="false">Masuk</string>
+    <string name="message_login" translatable="false">Masuk ke akun anda</string>
+    <string name="message_register" translatable="false">Daftarkan akun anda</string>
+    <string name="register" translatable="false">Daftar</string>
+    <string name="sign_out" translatable="false">Keluar</string>
+    <string name="have_account" translatable="false">Sudah punya akun?</string>
+    <string name="dont_have_account" translatable="false">Belum punya akun?</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name">Nama</string>
+    <string name="hint_email">Masukkan email anda</string>
+    <string name="hint_password">Masukkan password anda</string>
+    <string name="hint_name">Masukkan nama anda</string>
+    <string name="user_not_found">User tidak ditemukan!</string>
+    <string name="login_success">Login Berhasil!</string>
+    <string name="register_failed">Register akun gagal!</string>
+    <string name="register_success">Register akun berhasil!</string>
+    <string name="label_invalid_email">Email tidak valid!</string>
+    <string name="password_short">Kata sandi minimal harus 8 karakter!</string>
+    <string name="info">Informasi</string>
+    <string name="password_empty">Password tidak boleh kosong</string>
+    <string name="email_empty">Email tidak boleh kosong</string>
+    <string name="name_empty">Nama tidak boleh kosong</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="created_date">Tanggal Dibuat</string>
+    <string name="change_language_settings">Pengaturan Ubah Bahasa</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="permission">Tidak Mendapatkan Izin</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="description_empty">Deskripsi harus di isi</string>
+    <string name="image_empty">Silahkan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="failed_take_picture">Gagal mengambil gambar</string>
+    <string name="failed_start_camera">Gagal memunculkan kamera</string>
+    <string name="preview">pratayang</string>
+    <string name="logo">Logo</string>
+    <string name="profile">profil</string>
+</resources>

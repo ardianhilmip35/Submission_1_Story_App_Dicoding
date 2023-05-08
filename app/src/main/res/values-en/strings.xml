@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Submission Story App</string>
+    <string name="dashboard" translatable="false">Dashboard Story App</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="message_login" translatable="false">Login to your account</string>
+    <string name="message_register" translatable="false">Register your account</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="sign_out" translatable="false">Sign Out</string>
+    <string name="have_account" translatable="false">Have an account?</string>
+    <string name="dont_have_account" translatable="false">Don\'t have an account?</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name">Name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="user_not_found">User not found!</string>
+    <string name="login_success">Login success!</string>
+    <string name="register_failed">Register failed</string>
+    <string name="register_success">Account registration was successful!</string>
+    <string name="label_invalid_email">Invalid e-mail!</string>
+    <string name="password_short">Password must be at least 8 characters!</string>
+    <string name="info">Information</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="email_empty">Email cannot be empty</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="created_date">Date Created</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="detail_story">Story Details</string>
+    <string name="gallery">Gallery</string>
+    <string name="save">Save</string>
+    <string name="permission">Not getting permission.</string>
+    <string name="add_story">Add story</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="description_empty">Description must be filled</string>
+    <string name="image_empty">Please enter the image file first.</string>
+    <string name="failed_take_picture">Failed to take picture</string>
+    <string name="failed_start_camera">Failed to bring up camera</string>
+    <string name="preview">preview</string>
+    <string name="logo">Logo</string>
+    <string name="profile">profile</string>
+</resources>
